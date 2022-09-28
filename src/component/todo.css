@@ -1,0 +1,86 @@
+.div {
+    display: block;
+    text-align: center;
+}
+
+.h1,
+.charge {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+input{
+    border: 1px solid white ;
+    border-bottom: 1px dotted black;
+}
+.inputdiv {
+    border: 1px solid rgb(72, 69, 69);
+}
+
+.head {
+    margin-top: 100px;
+
+}
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(110,110,255,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+input {
+    /* border: 2px none black;
+    border-bottom: 1px solid black; */
+    width: 270px;
+    margin-left: 11px;
+    /* background-color: aliceblue; */
+}
+
+.div {
+    background-color: white;
+    width: 600px;
+    display: block;
+    margin: auto;
+
+}
+
+.butDis {
+    opacity: 0.5;
+    margin-top: -36px;
+    margin-left: 455px;
+}
+
+.butDs {
+    opacity: 0.5;
+}
+
+.inputdiv {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+
+
+.but {
+    margin-top: -20px;
+    margin-left: 475px;
+    display: flex;
+
+}
+
+
+.butt {
+    margin-left: 30px;
+}
+
+.butDis {
+    margin-left: 475px;
+    margin-top: -70px;
+}
+
+.button {
+    border: 1px solid rgb(160, 160, 255);
+    border-radius: 2px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(110,110,255,1) 0%, rgba(0,212,255,1) 100%);
+
+}
